@@ -1,6 +1,6 @@
 # Repair Tickets
 
-This repo is used to track repair tickets. The tickets are synced with [saturday](https://github.com/nbtca/saturday) to issues.
+This repo use issue track repair tickets. The tickets are synced with [saturday](https://github.com/nbtca/saturday).
 
 ### Use command to update ticket
 
