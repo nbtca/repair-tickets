@@ -1,6 +1,24 @@
 # Repair Tickets
 
-This repo is used to track repair tickets. The tickets are synced from [saturday](https://github.com/nbtca/saturday) to issues.
+This repo is used to track repair tickets. The tickets are synced with [saturday](https://github.com/nbtca/saturday) to issues.
+
+### Use command to update ticket
+
+You can add comment with follow command to the issue to update the status of the ticket. The command should start with `@nbtca-bot`.
+
+For example, if you want to submit a ticket, you can add comment like this:
+
+```
+I have repaired the ticket. @nbtca-bot submit
+```
+
+| Command           | Description       |
+| ----------------- | ----------------- |
+| @nbtca-bot accept | Accept the ticket |
+| @nbtca-bot submit | Reject the ticket |
+| @nbtca-bot close  | Close the ticket  |
+
+### Subscribe to the repo
 
 You could subscribe to the repo to get notifications when a ticket is created or updated.
 
