@@ -9,14 +9,14 @@ You can add comment with follow command to the issue to update the status of the
 For example, if you want to submit a ticket, you can add comment like this:
 
 ```
-I have repaired the ticket. @nbtca-bot submit
+I have repaired the ticket. @nbtca-bot commit
 ```
 
-| Command           | Description       |
-| ----------------- | ----------------- |
-| @nbtca-bot accept | Accept the ticket |
-| @nbtca-bot submit | Reject the ticket |
-| @nbtca-bot close  | Close the ticket  |
+| Command           | Description                  |
+| ----------------- | ---------------------------- |
+| @nbtca-bot accept | Accept the ticket            |
+| @nbtca-bot commit | Commit the ticket for review |
+| @nbtca-bot close  | Close the ticket             |
 
 ### Subscribe to the repo
 
